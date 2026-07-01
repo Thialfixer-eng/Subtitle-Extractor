@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Project cache
+cache/
+
+# Output
+output/
+collected_fonts/
+
+# Temp files
+*.wav
+*.ass
+*.srt
+_vlc_*
+
+# Config with API keys
+translator_config.json
+
+# OS
+desktop.ini
+Thumbs.db
